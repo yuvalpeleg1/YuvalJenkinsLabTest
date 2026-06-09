@@ -1,0 +1,2 @@
+I've added a manual "Approve or Reject" by the QA Team.
+But I've also noticed theres no python on, So I've added a k8s pod to the agent and packaged the needed steps inside the python container.
